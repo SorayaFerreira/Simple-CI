@@ -1,3 +1,6 @@
 from app import soma
 def test_soma():
-  assert soma(2, 3) == 5
+    """
+    Este é um docstring
+    """
+    assert soma(2, 3) == 5
