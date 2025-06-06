@@ -1,2 +1,5 @@
 def soma(a, b):
-  return a + b
+    """
+    Este é um docstring.
+    """
+    return a + b
