@@ -1,3 +1,4 @@
+# __doc__
 def soma(a, b):
     """
     Este é um docstring.
