@@ -1,3 +1,4 @@
+# __doc__
 from app import soma
 def test_soma():
     """
