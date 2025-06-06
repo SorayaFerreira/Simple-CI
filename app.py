@@ -1,6 +1,10 @@
 # __doc__
+'''
+This is a module-docstring
+'''
+
 def soma(a, b):
     """
-    Este é um docstring.
+    This is a function docstring.
     """
     return a + b
